@@ -1,2 +1,2 @@
-saludo="que onda"
+saludo="saludos"
 print(saludo)
