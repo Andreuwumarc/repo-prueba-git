@@ -1,2 +1,2 @@
-saludo="super pan, como te va?"
+saludo="como te va?"
 print(saludo)
