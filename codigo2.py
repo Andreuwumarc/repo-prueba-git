@@ -1,2 +1,2 @@
-nombre="pelao"
+nombre="pelagallo"
 print("Hola"+nombre)
